@@ -14,9 +14,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/AdguardTeam/AdGuardHome/internal/aghos"
 	"github.com/AdguardTeam/golibs/errors"
 	"github.com/AdguardTeam/golibs/log"
+	"github.com/jynychen/AdGuardHome/pkg/aghos"
 	"golang.org/x/exp/maps"
 	"golang.org/x/exp/slices"
 )
