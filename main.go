@@ -5,7 +5,7 @@ package main
 import (
 	"embed"
 
-	"github.com/AdguardTeam/AdGuardHome/internal/home"
+	"github.com/jynychen/AdGuardHome/pkg/home"
 )
 
 // Embed the prebuilt client here since we strive to keep .go files inside the

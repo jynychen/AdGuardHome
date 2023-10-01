@@ -12,9 +12,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/AdguardTeam/AdGuardHome/internal/aghio"
 	"github.com/AdguardTeam/golibs/errors"
 	"github.com/AdguardTeam/golibs/log"
+	"github.com/jynychen/AdGuardHome/pkg/aghio"
 	"golang.org/x/exp/slices"
 )
 
